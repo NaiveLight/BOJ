@@ -12,7 +12,7 @@ www.acmicpc.net </br>
 - 2016Y
   - DEC
     - 28D
-      1.
+      1. Prob2839 </br> https://www.acmicpc.net/problem/2839 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob2839.cpp 
     
 
 
