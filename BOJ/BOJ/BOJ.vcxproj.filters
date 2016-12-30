@@ -21,7 +21,7 @@
     <ClCompile Include="Prob1546.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Main4344.cpp">
+    <ClCompile Include="Prob4344.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
