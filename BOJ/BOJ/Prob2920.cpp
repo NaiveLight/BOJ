@@ -31,5 +31,4 @@ int main() {
 	}
 	else
 		printf("mixed\n");
-
 }
