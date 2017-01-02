@@ -23,3 +23,5 @@ www.acmicpc.net </br>
     - 01D
       1. Prob1806 </br> https://www.acmicpc.net/problem/1806 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob1806.cpp
       2. Prob2417 </br> https://www.acmicpc.net/problem/2417 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob2417.cpp
+    - 02D
+      1. Prob2920 </br> https://www.acmicpc.net/problem/2920 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob2920.cpp
