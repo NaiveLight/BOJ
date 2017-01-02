@@ -30,5 +30,8 @@
     <ClCompile Include="Prob1806.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Prob2920.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
