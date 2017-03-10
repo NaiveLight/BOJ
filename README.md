@@ -31,3 +31,6 @@ www.acmicpc.net </br>
       3. Prob1110 </br> https://www.acmicpc.net/problem/1110 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob1110.cpp
       4. Prob1157 </br> https://www.acmicpc.net/problem/1157 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob1157.cpp
       5. Prob2448 </br> https://www.acmicpc.net/problem/2448 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob2448.cpp
+  - MAR
+    - 10D
+      1. Prob5218 </br> https://www.acmicpc.net/problem/5218 </br> https://github.com/Sunpark20113281/BOJ/blob/master/BOJ/BOJ/Prob5218.cpp
